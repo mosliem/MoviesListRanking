@@ -14,7 +14,21 @@ TMDB API for getting The ratings, it exports a txt file with Movies and its rati
 - Set your access token on Constants.py
 
        ACCESSTOKEN = Your access token
-- Change the pattern of getting the absolute movie name from its file by changing the values of  NOTNEEDEDWORDS list on Constants.py 
+- Change the pattern of getting the absolute movie name from its file by changing the values of  NOTNEEDEDWORDS list on Constants.py
+<br>
+
+<p align="center">
+
+<img src="https://github.com/mosliem/MoviesListRanking/blob/main/IMG-20230529-WA0016.jpg" />
+
+</p>
 - Run the script 
                       
        python3 MoviesListRankingMain.py
+
+#### Results 
+a txt file containing movies names with its rating
+
+<img src="https://github.com/mosliem/MoviesListRanking/blob/main/IMG-20230529-WA0017.jpg" />
+
+
